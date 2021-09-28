@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LeafBlast</folder>
+	<filename>IMG_20190419_112207.jpg</filename>
+	<path>C:\Users\Asus\Desktop\windows_v1.8.0\Faster R-CNN\LeafBlast\IMG_20190419_112207.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2334</width>
+		<height>2334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>leaf blast</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>612</ymin>
+			<xmax>1832</xmax>
+			<ymax>1518</ymax>
+		</bndbox>
+	</object>
+</annotation>
