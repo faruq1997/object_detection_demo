@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Hispa</folder>
+	<filename>IMG_20190419_110519.jpg</filename>
+	<path>C:\Users\Asus\Desktop\Tesis\Faster R-CNN\Hispa\IMG_20190419_110519.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2616</width>
+		<height>2616</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hispa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1155</xmin>
+			<ymin>1325</ymin>
+			<xmax>1340</xmax>
+			<ymax>1437</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hispa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>744</ymin>
+			<xmax>2278</xmax>
+			<ymax>1748</ymax>
+		</bndbox>
+	</object>
+</annotation>
