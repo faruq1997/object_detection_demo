@@ -1,0 +1,50 @@
+<annotation>
+	<folder>BrownSpot</folder>
+	<filename>IMG_20190420_194829.jpg</filename>
+	<path>C:\Users\Asus\Desktop\Tesis\Labelled\BrownSpot\IMG_20190420_194829.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2021</width>
+		<height>2021</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>brown spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>902</xmin>
+			<ymin>1200</ymin>
+			<xmax>1082</xmax>
+			<ymax>1267</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>brown spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1670</xmin>
+			<ymin>1126</ymin>
+			<xmax>1867</xmax>
+			<ymax>1202</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>brown spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1599</xmin>
+			<ymin>1276</ymin>
+			<xmax>1844</xmax>
+			<ymax>1358</ymax>
+		</bndbox>
+	</object>
+</annotation>
