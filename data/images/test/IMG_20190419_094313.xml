@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Hispa</folder>
+	<filename>IMG_20190419_094313.jpg</filename>
+	<path>C:\Users\Asus\Desktop\Tesis\Labelled\Hispa\IMG_20190419_094313.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1438</width>
+		<height>1438</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hispa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>342</xmin>
+			<ymin>459</ymin>
+			<xmax>1130</xmax>
+			<ymax>1061</ymax>
+		</bndbox>
+	</object>
+</annotation>
