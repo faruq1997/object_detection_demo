@@ -1,0 +1,98 @@
+<annotation>
+	<folder>LeafBlast</folder>
+	<filename>IMG_20190419_114644.jpg</filename>
+	<path>C:\Users\Asus\Desktop\Tesis\Faster R-CNN\LeafBlast\IMG_20190419_114644.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>leaf blast</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>576</ymin>
+			<xmax>285</xmax>
+			<ymax>639</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>leaf blast</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>248</ymin>
+			<xmax>144</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>leaf blast</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>598</ymin>
+			<xmax>535</xmax>
+			<ymax>676</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>leaf blast</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>667</xmin>
+			<ymin>757</ymin>
+			<xmax>735</xmax>
+			<ymax>839</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>leaf blast</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1576</xmin>
+			<ymin>1457</ymin>
+			<xmax>1676</xmax>
+			<ymax>1544</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>leaf blast</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1703</xmin>
+			<ymin>1698</ymin>
+			<xmax>1780</xmax>
+			<ymax>1803</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>leaf blast</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2653</xmin>
+			<ymin>2257</ymin>
+			<xmax>2735</xmax>
+			<ymax>2344</ymax>
+		</bndbox>
+	</object>
+</annotation>
