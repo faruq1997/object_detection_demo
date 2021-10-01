@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Healthy</folder>
+	<filename>IMG_20190420_200433.jpg</filename>
+	<path>C:\Users\Asus\Desktop\windows_v1.8.0\Faster R-CNN\testing\Healthy\IMG_20190420_200433.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1324</width>
+		<height>1324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>healthy</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>774</xmin>
+			<ymin>2</ymin>
+			<xmax>1324</xmax>
+			<ymax>1266</ymax>
+		</bndbox>
+	</object>
+</annotation>
